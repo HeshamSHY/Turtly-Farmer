@@ -3,6 +3,8 @@ A ComputerCraft program for turtles to automatically farm wheat
 
 Note: This program can only run on Mining Turtles
 
+Version: 0.1.0
+
 ## Featurs
 
 1. Farms wheat automaticlly.
