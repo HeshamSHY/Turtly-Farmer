@@ -19,7 +19,7 @@ Version: 0.1.0
 **1. Make a 9×9 farm land with a water source in the middle as shown below**
 <img src="https://i.imgur.com/chHzer1.png" width="519" height="361">
 
-**2. Surround tha farm land with fence**
+**2. Surround the farm land with fence**
 (Make sure to use oak fence)
 
 <img src="https://i.imgur.com/CAELFIP.png" width="642" height="443">
