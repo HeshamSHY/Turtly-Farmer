@@ -8,6 +8,7 @@ Note: This program can only run on Mining Turtles
 1. Farms wheat automaticlly.
 2. Stores output in a chest.
 3. Refuels automaticlly. After refuel, it comes back to where it was before going to refuel
+4. Setup and forget about it, just check on it to put refull the fuel chest
 
 ## How To Setup
 
@@ -66,7 +67,7 @@ pastebin run Vg8AEmt3 installer.lua
 ![Setup11](https://user-images.githubusercontent.com/79906420/155711347-b66001c2-7f3d-44f3-979a-951193bbdeaa.png)
 
 **5. The turtle will start working. Now you don't need to do anything else, just check on it every now and then and check the amount of coal and fuel left.**
-**You can check the wheat output on the third chest. Sometimes the seeds chest may overflow, this will most likly not harm anything, but you can empy some of it**
+**You can check the wheat output on the third chest. Sometimes the seeds chest may overflow, this will most likely not cause any issues, but you can empty some of it**
 
 ![Setup12](https://user-images.githubusercontent.com/79906420/155711929-bf19ee6f-d109-45fa-9724-f79caf1fa8f3.png)
 
