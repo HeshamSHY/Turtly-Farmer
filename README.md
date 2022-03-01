@@ -9,8 +9,8 @@ Version: 0.1.0
 
 * Farms wheat automaticlly.
 * Stores output in a chest.
-* Refuels automaticlly. After refuel, it comes back to where it was before going to refuel.
-* Setup and forget about it, just check on it to refull the fuel chest.
+* Refuels automatically. After refuel, it comes back to where it was before going to refuel.
+* Setup and forget about it, just check on it to refill the fuel chest.
 
 ## How To Setup
 
