@@ -73,5 +73,12 @@ pastebin run Vg8AEmt3 installer.lua
 
 ![Setup12](https://user-images.githubusercontent.com/79906420/155711929-bf19ee6f-d109-45fa-9724-f79caf1fa8f3.png)
 
+##Todo
+
+- [ ] Farm all crops
+- [ ] Auto craft crops into something specified by user
+- [ ] (Maybe, idk) add support for other languages
+
 ## Support, Issues & Suggetions
+
 Everything can be reported in [issues](https://github.com/HeshamSHY/Turtly-Farmer/issues)
