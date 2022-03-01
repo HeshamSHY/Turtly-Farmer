@@ -77,6 +77,7 @@ pastebin run Vg8AEmt3 installer.lua
 
 - [ ] Farm all crops
 - [ ] Auto craft crops into something specified by user
+- [ ] Make the farmland size configurable
 - [ ] (Maybe, idk) add support for other languages
 
 ## Support, Issues & Suggetions
