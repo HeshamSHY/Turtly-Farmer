@@ -53,6 +53,8 @@ also if the farm is in a snowy biome this can help to stop it from freezing
 
 <img src="https://i.imgur.com/zzAGlzp.png" width="574" height="423">
 
+---
+
 ### Turtle Setup
 
 #### 1. Place your Mining Turtle next to the first chest facing the farm as shown below
